@@ -6,8 +6,8 @@
           
           
           
-          icon="♡"
-          aria-label="Menu"
+          icon="menu"
+          aria-label= "Menu"
           @click="toggleLeftDrawer"
         />
 
