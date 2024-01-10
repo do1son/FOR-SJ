@@ -70,7 +70,7 @@ module.exports = configure(function (/* ctx */) {
       // distDir
 
       extendViteConf (viteConf) {
-        viteConf.base = "test012-012"
+        viteConf.base = "FOR-SJ"
       },
       // viteVuePluginOptions: {},
 
