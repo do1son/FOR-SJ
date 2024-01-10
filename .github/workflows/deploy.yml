@@ -2,7 +2,7 @@ name: Deploy Vue site to Pages with Quasar
 
 on:
   push:
-    branches: ["master"]
+    branches: ["main"]
 
   workflow_dispatch:
 
